@@ -5,7 +5,7 @@ import { ItemsList } from './ItemsList';
 class ToDoComponent extends Component {
   
     state = {
-        items: ['one', 'two', 'three' ],
+        items: ['one'],
         newItem: '' 
     };
 
